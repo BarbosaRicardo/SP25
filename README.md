@@ -9,4 +9,4 @@
 
 ### USD
 1. ML OPS
-2. Capstone
+2. Capstone!
